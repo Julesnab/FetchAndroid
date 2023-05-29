@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fetch Android</string>
+    <string name="about">About</string>
+    <string name="fetch_jobs_information_api"><a href="https://fetch-hiring.s3.amazonaws.com/hiring.json"><u>Fetch Hiring\nInformation API</u></a></string>
+    <string name="fetch_android">Fetch Rewards Android</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="_2023_jules_nabon">© 2023, Jules Nabon</string>
+    <string name="data_provided_by">Data provided by</string>
+    <string name="no_data">No Data Available</string>
+    <string name="separator">Separator</string>
+</resources>
